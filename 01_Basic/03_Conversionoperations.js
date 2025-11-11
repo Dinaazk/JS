@@ -24,3 +24,39 @@ let booleanIsLoggedIn= Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn);
 
 //boolean value for empty string is false and true for filled string
+
+//***************OPERATIONS*****************// 
+
+let value=7
+let negv= -value
+
+//console.log(3+2)
+//console.log(3*2)
+//console.log(3-2)
+//console.log(3**2) 3 raise to 2
+//console.log(3/2)
+//console.log(3%2) 
+let str1="dinaaz"
+let str2="khan"
+let str3=str1 + str2
+console.log(str3)
+
+console.log("1"+2)
+console.log(1+"2")
+console.log(1+2+"2") //ans=32        
+console.log("2"+1+1)//ans=211
+
+console.log(+true);//ans=1
+console.log(+"");//ans=0
+
+let Gc=100
+Gc++;
+console.log(Gc);
+
+
+
+
+
+
+
+
